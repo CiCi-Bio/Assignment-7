@@ -1,0 +1,10 @@
+From the screen shot taken, the RNA seq data shows the expression of genes being expressed while the ATAC peaks show where regions of open chromatin
+ are located in the genome. The green tall peaks shows that some gene is being expressed and the ORC data shows where the DNA replication is initiated. 
+Moving from left to right on the file you will see the exon in purple at the bottom and the peaks from the RNA seq data which shows the transcription 
+of mRNA of the exon region.
+Moving right from there, the RNA seq  results had some peaks indicating that RNA is being transcribed. Part of the genome is missing annotations 
+for that region and thus, it could perhaps be that some non-coding RNA is being transcribed. Peaks were also seen for the ATAC indicating the opening 
+of chromatin for access to DNA to be transcribed. The OCR bar in red indicates that DNA replication is taking place. Where the second exon 
+(left to right) is, you can see ATAC peaks and peaks from the RNA seq data indicating transcription of that coding region of the exon. 
+Where the introns are located, there is no transcription of RNA as they do not code for protein.  
+This can be seen by the flat lines for the RNA seq data and the minsicule peaks forming for the ATAC data. 
