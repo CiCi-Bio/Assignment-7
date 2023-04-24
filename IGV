@@ -7,5 +7,5 @@ Moving right from there, the RNA seq  results had some peaks indicating that RNA
 for that region and thus, it could perhaps be that some non-coding RNA is being transcribed. Peaks were also seen for the ATAC indicating the opening 
 of chromatin for access to DNA to be transcribed. The OCR bar in red indicates that DNA replication is taking place. Where the second exon 
 (left to right) is, you can see ATAC peaks and peaks from the RNA seq data indicating transcription of that coding region of the exon. 
-Where the introns are located, there is no transcription of RNA as they do not code for protein.  
+Where the introns are located (the straight purple lines with the arrow), there is no transcription of RNA as they do not code for protein.  
 This can be seen by the flat lines for the RNA seq data and the minsicule peaks forming for the ATAC data. 
