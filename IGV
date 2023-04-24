@@ -1,3 +1,4 @@
+The region of interest is Acs_scaf_8 ca_scaf_8:29,651,082-29,656,734.
 From the screen shot taken, the RNA seq data shows the expression of genes being expressed while the ATAC peaks show where regions of open chromatin
  are located in the genome. The green tall peaks shows that some gene is being expressed and the ORC data shows where the DNA replication is initiated. 
 Moving from left to right on the file you will see the exon in purple at the bottom and the peaks from the RNA seq data which shows the transcription 
